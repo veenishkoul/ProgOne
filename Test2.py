@@ -1,8 +1,6 @@
 # This program is written as a part of
 # Learning Python
 
-
-
 dict = {'set':'collection of well define objects',
         'mutable':'something that can be changed',
         'immutable': 'something that cannot be changed',
