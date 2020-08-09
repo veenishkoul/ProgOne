@@ -1,5 +1,5 @@
 #This script checks for the leap year
-
+# This is part of the python learning
 
 def is_leap(is_leap_year):
     leap = False
