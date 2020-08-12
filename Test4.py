@@ -9,9 +9,9 @@ print(var1)
 
 ###########To check list logic##########
 list1 = [2,6,3]
-print(5  not in list1)
+print(5 not in list1)
 if(5 not in list1):
-    print("Not in list")
+ print("5 not in list1")
 
 #####TO test age for driving########
 
